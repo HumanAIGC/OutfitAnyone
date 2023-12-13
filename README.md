@@ -9,3 +9,7 @@ Institute for Intelligent Computing, Alibaba Group
 
 
 OutfitAnyone+AnimateAnyone: [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/jnNHcLdoxNk)
+
+![oufit animie](docs/1.gif)![oufit animie](docs/2.gif)
+
+
