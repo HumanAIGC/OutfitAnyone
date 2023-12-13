@@ -9,7 +9,7 @@ To prevent the malicious use of personal photos, we have currently limited our f
 Feel free to enjoy OutfitAnyone and share your interesting results with us. If you have any questions or suggestions, don't hesitate to leave a message in the issues section.
 
 
-<font color='red'>**Note: Please give us a star if you like this project. Thanks!**</font> :stuck_out_tongue_winking_eye:
+<font color='red'>**Note: Please don't forget to give us a star if you like this project. Thanks!**</font> :stuck_out_tongue_winking_eye:
 
 ---
 
