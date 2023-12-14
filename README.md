@@ -28,3 +28,24 @@ OutfitAnyone+AnimateAnyone: [![YouTube](https://badges.aleen42.com/src/youtube.s
 ![oufit animie](docs/1.gif)![oufit animie](docs/2.gif)
 
 
+---
+```html
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
+  />
+</picture>
+```
