@@ -1,4 +1,8 @@
 # Outfit Anyone
+**<span style="color:red">
+News</span>**: Now you can try out OutfitAnyone on <a href = "https://modelscope.cn/studios/DAMOXR/OutfitAnyone">ModelScope </a>. Enjoy it and have fun!
+<a href="https://modelscope.cn/studios/DAMOXR/OutfitAnyone"  style='padding-left: 0.5rem;'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Model%20Scope-OutfitAnyone-blue'></a>
+
 <font color='red'>**News:**</font>
 The experience demo of OutfitAnyone v0.9 is now available on <a href = 'https://huggingface.co/spaces/HumanAIGC/OutfitAnyone' >Hugging Face</a>.
 <a href="https://huggingface.co/spaces/HumanAIGC/OutfitAnyone"  style='padding-left: 0.5rem;'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OutfitAnyone-orange'></a>
