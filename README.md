@@ -2,7 +2,17 @@
 
 OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person
 
-Ke Sun, Jian Cao, Qi Wang, Linrui Tian, Xindi Zhang, Lian Zhuo, Bang Zhang, Liefeng Bo, Daiheng Gao
+Institute for Intelligent Computing, Alibaba Group
+
+[Ke Sun](https://dblp.org/pid/69/476-9.html), 
+Jian Cao,
+[Qi Wang](https://scholar.google.com/citations?user=MVeptcsAAAAJ&hl=en&oi=sra),
+Linrui Tian,
+Xindi Zhang,
+Lian Zhuo,
+[Bang Zhang](https://dblp.org/pid/11/4046.html),
+[Liefeng Bo](https://scholar.google.com/citations?user=FJwtMf0AAAAJ&hl=zh-CN),
+[Daiheng Gao](https://tomguluson92.github.io/)
 
 <a href='[https://humanaigc.github.io/animate-anyone/](https://humanaigc.github.io/outfit-anyone/)'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/pdf/2407.16224.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
@@ -25,10 +35,6 @@ Feel free to enjoy OutfitAnyone and share your interesting results with us. If y
 
 
 [//]: # (~~**A demo that can be experienced is being prepared.**~~)
-
-Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
-
-Institute for Intelligent Computing, Alibaba Group
 
 <a href='https://humanaigc.github.io/outfit-anyone/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/-KmoKYLbN4c)
 
