@@ -51,7 +51,7 @@ OutfitAnyone+AnimateAnyone: [![YouTube](https://badges.aleen42.com/src/youtube.s
 ```
 @article{sun2024outfitanyone,
   title={OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person},
-  author={Sun, Ke and Cao, Jian and Wang, Qi and Tian, Linrui and Zhang, Xindi and Zhuo, Lian and Zhang, Bang and Bo, Liefeng and Zhou, Wenbo and Zhang, Weiming and others},
+  author={Sun, Ke and Cao, Jian and Wang, Qi and Tian, Linrui and Zhang, Xindi and Zhuo, Lian and Zhang, Bang and Bo, Liefeng and Zhou, Wenbo and Zhang, Weiming and Daiheng Gao},
   journal={arXiv preprint arXiv:2407.16224},
   year={2024}
 }
