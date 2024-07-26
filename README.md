@@ -1,4 +1,11 @@
 # Outfit Anyone
+
+OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person
+
+Ke Sun, Jian Cao, Qi Wang, Linrui Tian, Xindi Zhang, Lian Zhuo, Bang Zhang, Liefeng Bo, Daiheng Gao
+
+<a href='[https://humanaigc.github.io/animate-anyone/](https://humanaigc.github.io/outfit-anyone/)'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/pdf/2407.16224.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+
 **<span style="color:red">
 News</span>**: Now you can try out OutfitAnyone v0.9 on <a href = "https://modelscope.cn/studios/DAMOXR/OutfitAnyone">ModelScope 魔搭</a> ( for Chinese users ) . Enjoy it and have fun!
 
@@ -30,3 +37,16 @@ OutfitAnyone+AnimateAnyone: [![YouTube](https://badges.aleen42.com/src/youtube.s
 
 ![oufit animie](docs/1.gif)![oufit animie](docs/2.gif)
 
+
+---
+
+## Citation	
+
+```
+@article{sun2024outfitanyone,
+  title={OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person},
+  author={Sun, Ke and Cao, Jian and Wang, Qi and Tian, Linrui and Zhang, Xindi and Zhuo, Lian and Zhang, Bang and Bo, Liefeng and Zhou, Wenbo and Zhang, Weiming and others},
+  journal={arXiv preprint arXiv:2407.16224},
+  year={2024}
+}
+```
